@@ -1,9 +1,9 @@
-##Project Name - Zomato Restaurant Clustering and Sentiment Analysis##
+Project Name - Zomato Restaurant Clustering and Sentiment Analysis
 Project Type - UnSupervised Machine Learning
 Contribution - Individual
 project by Bhavna Bhalani
 
-**Project Summary -**
+Project Summary
 This project involved employing advanced data analytics techniques to delve into restaurants and customer feedback on Zomato, a prominent online food delivery platform.
 The dataset comprised crucial information like restaurant names, locations, cuisines, average costs for two, ratings, and user reviews.
 Initially, I focused on data cleaning and preprocessing, tackling duplicate entries, handling missing values, and formatting the data for analysis.
@@ -12,5 +12,5 @@ Subsequently, I conducted sentiment analysis on user reviews to gauge overall se
 The analysis revealed that restaurants in the city clustered into five groups based on location, cuisine, and cost. Overall sentiment among customers was predominantly positive.
 In essence, this project underscores the efficacy of clustering and sentiment analysis in deciphering Zomato's restaurant data. The insights gained can empower both restaurants and customers to make informed decisions. Furthermore, this approach could be extended to other cities or regions to clean insights into dining preferences across diverse locales.
 
-**Problem Statement**
+Problem Statement
 The objective of this project is to delve into the restaurant landscape of India by leveraging data sourced from Zomato, a prominent Indian restaurant aggregator and food delivery startup. The primary goal is to delve into customer sentiment analysis, segment Zomato's restaurant data, and draw meaningful insights through visualizations. The dataset encompasses details on cuisine types, pricing, and customer feedback. Through this analysis, the project seeks to facilitate customers in discovering top-rated restaurants in their vicinity and assist the company in pinpointing avenues for growth and enhancement within the industry. Furthermore, it aims to employ sentiment analysis techniques to identify key influencers and critics within the industry by scrutinizing reviewer metadata.
